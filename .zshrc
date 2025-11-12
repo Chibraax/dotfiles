@@ -147,3 +147,6 @@ export PATH="$PATH:/mnt/home_encrypted/wbruce/.local/bin"
 # Add completions 
 source ~/.zsh/completions/uv.zsh
 
+
+# opencode
+export PATH=/home/wbruce/.opencode/bin:$PATH
